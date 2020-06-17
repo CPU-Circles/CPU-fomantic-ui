@@ -1,8 +1,8 @@
 Fomantic UI 사용 기본
 ==========================
   
-1. HTML의 기초틀을 먼저 만듭니다.
-==============================
+#1. HTML의 기초틀을 먼저 만듭니다.
+==========================
   
 ```html
 <html>
@@ -15,11 +15,12 @@ Fomantic UI 사용 기본
   </body>
 </html>
 ```
-2. Fomantic-UI의 Cdn 을 불러옵니다.
-===================================
+#2. Fomantic-UI의 Cdn 을 불러옵니다.  
+=============================================
   
 Cdn은 https://fomantic-ui.com/introduction/getting-started.html#using-a-cdn-provider 에 있습니다.
-3. Fomantic-UI의 cdn을 head에 적용합니다.
+
+#3. Fomantic-UI의 cdn을 head에 적용합니다.
 ==========================================
   
 ```html
@@ -36,7 +37,7 @@ Cdn은 https://fomantic-ui.com/introduction/getting-started.html#using-a-cdn-pro
   </body>
 </html>
 ```
-4. Fomantic-UI의 템플릿중 하나를 불러와봅시다.
+#4. Fomantic-UI의 템플릿중 하나를 불러와봅시다.
 =============================================
   
 저는 기본 버튼을 불러오겠습니다.  
